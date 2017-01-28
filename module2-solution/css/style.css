@@ -16,8 +16,9 @@ h1{
 	position: absolute;
 	top:0;
 	right:0;
-	padding: 0px;
-	margin-bottom: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-bottom: 25px;	
 	background-color: #FFFFFF;
 	text-align: center;
 	font-size: 20px;
